@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+/*
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+*/
+html {
+  font-family: sans-serif;
+}
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+.lastResult {
+  color: white;
+  padding: 3px;
+}
